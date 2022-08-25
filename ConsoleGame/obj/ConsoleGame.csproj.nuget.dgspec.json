@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {}
+    "F:\\First Project\\ConsoleGame\\ConsoleGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj": {
+    "F:\\First Project\\ConsoleGame\\ConsoleGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "projectUniqueName": "F:\\First Project\\ConsoleGame\\ConsoleGame.csproj",
         "projectName": "ConsoleGame",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+        "projectPath": "F:\\First Project\\ConsoleGame\\ConsoleGame.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ConsoleGame\\ConsoleGame\\obj\\",
+        "outputPath": "F:\\First Project\\ConsoleGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
