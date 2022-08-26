@@ -63,7 +63,6 @@ namespace ConsoleGame
             Console.WriteLine();
             Console.WriteLine($"Your character said: {_arrayEmptyStepPhrase[randomPhrase]}");
             Console.WriteLine();
-            Console.WriteLine();
         }
         private void MeetAnimal(MainCharacter mainCharacter)
         {

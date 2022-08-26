@@ -1,0 +1,15 @@
+F:\First Project\ConsoleGame\bin\Release\net6.0\ConsoleGame.exe
+F:\First Project\ConsoleGame\bin\Release\net6.0\ConsoleGame.deps.json
+F:\First Project\ConsoleGame\bin\Release\net6.0\ConsoleGame.runtimeconfig.json
+F:\First Project\ConsoleGame\bin\Release\net6.0\ConsoleGame.dll
+F:\First Project\ConsoleGame\bin\Release\net6.0\ConsoleGame.pdb
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.AssemblyInfo.cs
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.dll
+F:\First Project\ConsoleGame\obj\Release\net6.0\refint\ConsoleGame.dll
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.pdb
+F:\First Project\ConsoleGame\obj\Release\net6.0\ConsoleGame.genruntimeconfig.cache
+F:\First Project\ConsoleGame\obj\Release\net6.0\ref\ConsoleGame.dll

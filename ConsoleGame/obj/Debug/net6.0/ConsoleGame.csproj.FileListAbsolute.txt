@@ -13,3 +13,18 @@ C:\Users\Admin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net6.0\refint\Cons
 C:\Users\Admin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
 C:\Users\Admin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll
+F:\First Project\ConsoleGame\bin\Debug\net6.0\ConsoleGame.exe
+F:\First Project\ConsoleGame\bin\Debug\net6.0\ConsoleGame.deps.json
+F:\First Project\ConsoleGame\bin\Debug\net6.0\ConsoleGame.runtimeconfig.json
+F:\First Project\ConsoleGame\bin\Debug\net6.0\ConsoleGame.dll
+F:\First Project\ConsoleGame\bin\Debug\net6.0\ConsoleGame.pdb
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfo.cs
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.dll
+F:\First Project\ConsoleGame\obj\Debug\net6.0\refint\ConsoleGame.dll
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ConsoleGame.genruntimeconfig.cache
+F:\First Project\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll
